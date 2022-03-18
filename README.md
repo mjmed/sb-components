@@ -1,18 +1,20 @@
-# Storybook - React
+# mj-my-storybook-components
 
 
-## _React PRO: LLeva tus bases al siguiente nivel_
+Este paquete es útil para practicar **React Components** + **Storybook** + **NPM Publish**.
 
 
-Proyecto práctico de React con Typescript para aprender como integrar **Storybook** en aplicaciones de React.
+## Instalación
+
+Usando npm:  
+```
+npm install mj-my-storybook-components
+```
+
+Usando yarn:  
+```
+yarn add mj-my-storybook-components
+```
 
 
-Incluye **Chromatic** como un bonus.
-
-
-#### Librerias utilizadas:
-+ [Storybook](https://storybook.js.org/)
-+ [Chromatic](https://www.chromatic.com/)
-
-
-#### URL: [Storybook-React](https://mjmed.github.io/sb-components/?path=/story/example-introduction--page)
+#### Demo: [Storybook Components](https://mjmed.github.io/sb-components/?path=/story/example-introduction--page)

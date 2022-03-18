@@ -10,6 +10,7 @@
     "url": "https://github.com/mjmed/sb-components",
     "type": "git"
   },
+  "keywords": ["npm publish", "react components", "storybook" ],
   "peerDependencies": {
     "react": ">=16"
   },
